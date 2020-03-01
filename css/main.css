@@ -1,0 +1,74 @@
+body {
+  background-color: #eee;
+  /* background-image: url(../img/bg3.jpg); */ */
+ 
+}
+
+.top, .footer {
+  /* background-image: url(../img/bg4.jpg); */
+  background-color:#ddd;
+  margin:0;
+  padding:0;
+}
+
+.toptext {
+   background-color: rgba(20, 137, 241, 0.5); /* #1489F1 */
+   background-image: linear-gradient(#1489F1,rgb(67, 163, 246) );
+   padding-top: 40px;
+   padding-bottom: 40px;
+   color: #eee;
+}
+
+.toptext h1 {
+  margin-top:20px;
+  margin-left:15px;
+}
+
+.maincontent {
+  background-color: white;
+  padding-top:0;
+  margin-top:0;
+  border:solid 1px transparent;
+}
+
+.card {
+  border: 0;
+}
+
+.card .card-header {
+  /* background-color: #fefefe; */
+  /* border-bottom: 1px solid #1489F1; */
+}
+
+.card .card-body {
+  /* background-color: #fefefe; */
+  /* border-top: 1px solid #1489F1; */
+  /* margin-top:2px; */
+  background-color:#f8f8f8;
+} 
+
+
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Poppins';
+  padding:0;
+}
+
+h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+h4 {
+  font-size:16px;
+  margin-top:12px;
+}
+
+
+h2 {
+  padding-bottom:8px;
+  border-bottom: solid 2px rgba(20, 138, 241, 0.274);
+}
+/* 
+.price-table td:nth-child(2) {
+  text-align: right;
+} */
